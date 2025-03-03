@@ -38,6 +38,6 @@ Run the application:
 dotnet run
 -------------------------------------------
 Log In Credentials
-mail-admin@example.com
+Mail-  admin@example.com
 Password- Admin@123
 
